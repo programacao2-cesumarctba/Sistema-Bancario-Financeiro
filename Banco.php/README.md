@@ -1,2 +1,2 @@
-# Banco-seila.php-
-O Grupo: Roger,Joao,Gustavo,Ezequiel,Lucas,Pedro,Marcos,Wellington
+# Banco.php-
+Alex Rogério
